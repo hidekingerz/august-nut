@@ -1,0 +1,26 @@
+{
+  "name": "august-nut",
+  "version": "1.0.0",
+  "description": "Practice OpenAPI and Redoc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidekingerz/august-nut.git"
+  },
+  "keywords": [
+    "OpenAPI",
+    "ReDoc"
+  ],
+  "author": "hidekingerz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidekingerz/august-nut/issues"
+  },
+  "homepage": "https://github.com/hidekingerz/august-nut#readme",
+  "dependencies": {
+    "redoc-cli": "^0.9.12"
+  }
+}
